@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadimran-h90/calculator-react-tailwindcss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadimran-h90/calculator-react-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/mohammadimran-h90/calculator-react-tailwindcss#readme"
+}
